@@ -1,4 +1,5 @@
 #!/bin/bash
 ls -l > bbb.txt
 123
-456
+789
+thanks.
